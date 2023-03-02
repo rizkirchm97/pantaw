@@ -1,16 +1,10 @@
 # pantaw
 
-Keep track of the daily schedule of your family members
+Pantaw is a mobile application that expected to be use to monitor the schedule of each family member. This application was made starting from the anxiety of the creator of this application to his family members who did not tell where today would go. 
+This application, at least temporarily, will have
 
-## Getting Started
+- Live Track
+- Realtime ToDo features so that it will be immediately updated on the requestor's device
+- Authentication and authorization.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Made with Flutter
