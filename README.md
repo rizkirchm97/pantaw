@@ -1,6 +1,6 @@
 # Pantaw
 
-# THIS PROJECT IS TEMPORARILY NOT IN WORKING
+# THIS PROJECT IS TEMPORARILY NOT IN DEVELOPMENT
 
 Pantaw is a mobile application that expected to be use to monitor the schedule of each family member. This application was made starting from the anxiety of the creator of this application to his family members who did not tell where today would go. 
 This application, at least temporarily, will have
